@@ -33,7 +33,6 @@ Create Pull Request so your TAs can check up your work.
 In order to do the game logic, we add some **Jasmine** tests to help you. Navigate to:
 
 ```bash
-starter_code
   |___ jasmine
 ```
 Open the `SpecRunner.html` to check them.
